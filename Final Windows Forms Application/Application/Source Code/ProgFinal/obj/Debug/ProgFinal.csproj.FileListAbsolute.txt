@@ -1,0 +1,2 @@
+C:\Users\Adrian\Desktop\all PROG Ass\Final Windows Forms Application\Application\Source Code\ProgAss3\bin\Debug\ProgFinal.exe.config
+C:\Users\Adrian\Desktop\all PROG Ass\Final Windows Forms Application\Application\Source Code\ProgFinal\bin\Debug\ProgFinal.exe.config

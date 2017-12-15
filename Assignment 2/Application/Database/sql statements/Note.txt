@@ -1,0 +1,15 @@
+Did the creation of database seperately:
+
+Steps:
+
+open sql
+
+right click in your object explorer on database
+
+Select New DataBase
+
+Enter the Name "DurbanFirstHealth"
+
+click ok
+
+Execute run queries in order of 'Create' then 'Insert'
